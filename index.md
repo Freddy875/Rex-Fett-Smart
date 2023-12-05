@@ -238,3 +238,8 @@ Frases: "La motivación es lo que te pone en marcha, el hábito es lo que te man
 4. **Relevante:** Este objetivo es relevante ya que un aumento significativo en el límite de crédito permitirá una mayor flexibilidad financiera y la capacidad de realizar compras más sustanciales, siempre y cuando se maneje de manera responsable.
 
 5. **Temporal:** Establecer hitos específicos para cada período de 3 meses, con la meta final de alcanzar el límite de $30000 en un plazo máximo de [indicar el tiempo esperado, por ejemplo, 12 meses], considerando las revisiones trimestrales de Nu como oportunidades para el aumento del límite.
+
+## Frases: 
+
+**"El éxito es la suma de pequeños esfuerzos repetidos día tras día."** - Robert Collier, escritor de autoayuda.
+**"La determinación de hoy es el éxito de mañana."** - H. Jackson Brown Jr., autor.
