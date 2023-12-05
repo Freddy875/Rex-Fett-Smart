@@ -224,3 +224,17 @@ Frases: "La motivación es lo que te pone en marcha, el hábito es lo que te man
 
 3. "El mindfulness es una forma de reconectar con uno mismo y de aprender a estar presentes en cada momento."
    - **Arianna Huffington** (Fundadora de The Huffington Post)
+  
+---
+
+## Aumentar la línea de credito de NU
+
+1. **Específico:** Incrementar el límite de crédito de la tarjeta Nu de $3400 a $30000 mediante compras regulares cada 15 días, aprovechando la opción de realizar una revisión cada 3 meses para aumentar el límite.
+
+2. **Medible:** Monitorear el límite de crédito actual y el progreso hacia el objetivo de $30000 a través de los registros de gastos y el seguimiento de las revisiones trimestrales proporcionadas por Nu.
+
+3. **Alcanzable:** Evaluar los patrones de gastos para asegurarse de que las compras realizadas cada 15 días sean manejables dentro del presupuesto personal y, a su vez, cumplir con los requisitos de elegibilidad para la revisión del límite cada 3 meses.
+
+4. **Relevante:** Este objetivo es relevante ya que un aumento significativo en el límite de crédito permitirá una mayor flexibilidad financiera y la capacidad de realizar compras más sustanciales, siempre y cuando se maneje de manera responsable.
+
+5. **Temporal:** Establecer hitos específicos para cada período de 3 meses, con la meta final de alcanzar el límite de $30000 en un plazo máximo de [indicar el tiempo esperado, por ejemplo, 12 meses], considerando las revisiones trimestrales de Nu como oportunidades para el aumento del límite.
