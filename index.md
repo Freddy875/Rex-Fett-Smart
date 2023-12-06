@@ -172,19 +172,18 @@ Frases: "La motivación es lo que te pone en marcha, el hábito es lo que te man
 
 ## Dormir
 
-**Específico** Dormirse a las 10:00 PM todas las noches y retirar el teléfono al sonar la alarma del sueño para descansar y levantarse temprano.
 
-2. **Medible (Measurable):** La medida de éxito se puede cuantificar mediante el seguimiento diario del horario de sueño, registrando si logras acostarte a las 10:00 PM y si apartas el teléfono al sonar la alarma.
+1. **Específico:** Dormirse y levantarse a horas fijas todos los días, y reducir el uso del celular antes de dormir.
+  
+2. **Medible:** El objetivo de dormirse a las 19:00 y despertarse a las 5:00 es fácilmente medible, al igual que reducir el tiempo de uso del celular antes de dormir (por ejemplo, limitarlo a 30 minutos o eliminarlo por completo).
 
-3. **Alcanzable (Achievable):** Considera tu rutina actual y asegúrate de que sea posible acostarte a esa hora todos los días. Además, evalúa si puedes dejar el teléfono a un lado cuando suene la alarma.
+3. **Alcanzable:** Establecer una rutina de sueño requiere compromiso y hábitos saludables. Asegúrate de que esta meta sea alcanzable según tu horario y tus responsabilidades diarias.
 
-4. **Relevante (Relevant):** Este objetivo es relevante para mejorar tu descanso y establecer una rutina saludable, lo que puede tener un impacto positivo en tu bienestar general.
+4. **Relevante:** Dormir lo suficiente y a horas regulares tiene un impacto significativo en la salud física y mental. Reducir el tiempo frente al celular antes de dormir puede mejorar la calidad del sueño.
 
-5. **Con plazo temporal (Time-bound):** Establece un plazo de 90 días para mantener este hábito de dormir temprano y retirar el teléfono al sonar la alarma del sueño.
+5. **Tiempo definido:** Establece un plazo para alcanzar este objetivo. Por ejemplo, podrías fijarte lograr este patrón de sueño constante en las próximas cuatro semanas.
 
 ### Frase:
-
-¡Claro! Aquí tienes una lista de frases motivacionales relacionadas con el objetivo de dormir temprano y mantener una rutina saludable, atribuidas a personas famosas:
 
 1. "El éxito es ir a dormir por la noche con una mente en paz." - Albert Einstein, Físico Teórico.
 
