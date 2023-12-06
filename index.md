@@ -296,3 +296,8 @@ Los fines de semana.
 14. De 12:20 pm a 12:30 pm. Descansar. 
 
 **Si sientes flojera recuerda el libro el Poder de los 5 segundos de Mel Robbins. Contanto del 5 al 1 como un cohete.**
+
+No te desanimes si al principio no lo logras, recuerda lo que menciona Stephen Covey sobre los paradigmas. 
+El cambio se manifiesta al cuestionar nuestros comportamientos y actitudes, y los modificamos gradualmente a lo largo del tiempo. 
+
+Antes tu paradigma era levantarte temprano en la escuela, luego lo descuidaste en el trabajo y ahora lo quieres retomar, no será fácil y no empezará en el 2024, pero estas empezando ya organizaste tu día. Te costara trabajo, y no siempre tendrás ánimo, pero comenzara poco a poco. Mira tú tabla en Excel te dieron ganas de rendirte cuando viste que no habías progresado, pero te relajaste a ti mismo, y lo sigues intentando. 
