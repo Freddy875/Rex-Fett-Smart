@@ -296,3 +296,4 @@ Los fines de semana.
 13. De 11:20 am a 12:20 pm. Estudiar al estilo Ninja 2.
 14. De 12:20 pm a 12:30 pm. Descansar. 
 
+**Si sientes flojera recuerda el libro el Poder de los 5 segundos de Mel Robbins. Contanto del 5 al 1 como un cohete.**
